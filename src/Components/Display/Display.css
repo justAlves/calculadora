@@ -1,0 +1,8 @@
+.display{
+    display: flex;
+    grid-column: span 4;
+    color: #fff;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 16px;
+}
