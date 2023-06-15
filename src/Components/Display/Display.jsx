@@ -1,5 +1,5 @@
 import React from 'react'
-import './display.css'
+import './Display.css'
 
 function Display({value}) {
   return (
